@@ -42,18 +42,18 @@ Day 3 focused on Python operators. You practiced arithmetic operators, assignmen
 
 ## Confidence Checklist
 
-| Skill | Confidence 0/1/2/3 | Evidence |
-|---|---:|---|
-| I can explain `True` and `False`. |  |  |
-| I can use arithmetic operators correctly. |  |  |
-| I can explain the difference between `/`, `//`, and `%`. |  |  |
-| I can use `**` for exponentiation. |  |  |
-| I can explain why `^` is not exponentiation in Python. |  |  |
-| I can update variables with assignment operators like `+=` and `*=`. |  |  |
-| I can compare values with `==`, `!=`, `>`, `<`, `>=`, and `<=`. |  |  |
-| I can use `in` and `not in` with strings. |  |  |
-| I can combine conditions with `and`, `or`, and `not`. |  |  |
-| I can write small scripts for area, perimeter, slope, and distance. |  |  |
+| Skill                                                                | Confidence 0/1/2/3 | Evidence |
+| -------------------------------------------------------------------- | -----------------: | -------- |
+| I can explain `True` and `False`.                                    |                  3 |          |
+| I can use arithmetic operators correctly.                            |                  3 |          |
+| I can explain the difference between `/`, `//`, and `%`.             |                  3 |          |
+| I can use `**` for exponentiation.                                   |                  3 |          |
+| I can explain why `^` is not exponentiation in Python.               |                  0 |          |
+| I can update variables with assignment operators like `+=` and `*=`. |                  3 |          |
+| I can compare values with `==`, `!=`, `>`, `<`, `>=`, and `<=`.      |                  3 |          |
+| I can use `in` and `not in` with strings.                            |                  3 |          |
+| I can combine conditions with `and`, `or`, and `not`.                |                  3 |          |
+| I can write small scripts for area, perimeter, slope, and distance.  |                  3 |          |
 
 ## Question To Evaluate Learning
 
@@ -76,7 +76,7 @@ print(circumference)
 
 </details>
 
-Score: 0/1/2/3  
+Score: 0/1/2/**3**  
 Last reviewed: YYYY-MM-DD  
 Next review: YYYY-MM-DD  
 Mistake note:
@@ -94,7 +94,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -106,7 +106,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -118,7 +118,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -130,7 +130,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -142,7 +142,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -154,7 +154,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -166,7 +166,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -178,7 +178,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -204,7 +204,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -216,7 +216,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -228,7 +228,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -240,7 +240,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -249,6 +249,17 @@ Use these questions without looking at the notebook first.
    <details><summary>Answer</summary>
 
    Right shift moves the binary bits to the right. For positive integers, shifting right by `3` gives a result similar to floor-dividing by `2 ** 3`, which is `8`.
+   Har safar bitlarni chizib o'tirmaslik uchun tayyor matematik qoida bor: 
+   - Ikkilik tizimda sonni o'ngga n taga surish — o'sha sonni 2n ga **butun bo'lish** (`//`) bilan bir xil.
+
+- Bizning holatda `>>= 3` bo'lgani uchun, bu sonni 23 ga (ya'ni **8** ga) bo'lish demakdir:
+
+- 40//8=5
+**Yana bir nechta tezkor misollar:**
+
+- `x = 16` bo'lsa, `x >>= 3` kodi 16//8 ni bajaradi va javob **2** bo'ladi.
+    
+- `x = 50` bo'lsa, `x >>= 3` kodi 50//8 ni bajaradi va javob **6** bo'ladi (qoldig'i tashlab yuboriladi).
 
    </details>
 
