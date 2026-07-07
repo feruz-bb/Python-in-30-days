@@ -40,15 +40,15 @@ Day 2 focused on storing data with variables, choosing clear variable names, col
 
 | Skill                                                          | Confidence 0/1/2/3 | Evidence |
 | -------------------------------------------------------------- | -----------------: | -------- |
-| I can explain Python variable naming rules.                    |                    |          |
-| I can use snake_case correctly.                                |                    |          |
-| I can declare multiple variables in one line.                  |                    |          |
-| I can use `input()` to collect user data.                      |                    |          |
-| I can identify common Python data types.                       |                    |          |
-| I can convert values between types with built-in functions.    |                    |          |
-| I can use `help('keywords')` to inspect Python reserved words. |                    |          |
-| I can solve basic arithmetic exercises with variables.         |                    |          |
-| I can calculate the area and circumference of a circle.        |                    |          |
+| I can explain Python variable naming rules.                    |                  3 |          |
+| I can use snake_case correctly.                                |                  3 |          |
+| I can declare multiple variables in one line.                  |                  3 |          |
+| I can use `input()` to collect user data.                      |                  3 |          |
+| I can identify common Python data types.                       |                  3 |          |
+| I can convert values between types with built-in functions.    |                  3 |          |
+| I can use `help('keywords')` to inspect Python reserved words. |                  3 |          |
+| I can solve basic arithmetic exercises with variables.         |                  3 |          |
+| I can calculate the area and circumference of a circle.        |                  3 |          |
 
 ## Question To Evaluate Learning
 
@@ -78,7 +78,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -90,7 +90,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -102,7 +102,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -114,7 +114,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -126,7 +126,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -138,7 +138,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -150,7 +150,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -162,7 +162,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -176,7 +176,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -188,7 +188,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -200,7 +200,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -212,7 +212,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -224,7 +224,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -236,7 +236,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -248,7 +248,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -272,7 +272,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -292,7 +292,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -313,7 +313,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -339,7 +339,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
