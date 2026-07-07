@@ -37,16 +37,17 @@ Day 1 introduced the smallest useful pieces of Python: printing output, doing ar
 
 ## Confidence Checklist
 
-| Skill | Confidence 0/1/2/3 | Evidence |
-|---|---:|---|
-| I can use `print()` to display output. |  |  |
-| I can explain what each basic arithmetic operator does. |  |  |
-| I can use `type()` to inspect a value. |  |  |
-| I can identify `int`, `float`, `complex`, and `str`. |  |  |
-| I can recognize `list`, `dict`, and `set` values. |  |  |
-| I can explain the difference between `/` and `//`. |  |  |
-| I can explain what `%` returns. |  |  |
-| I can explain what `**` does. |  |  |
+| Skill                                                   | Confidence 0/1/2/3 | Evidence |
+| ------------------------------------------------------- | -----------------: | -------- |
+| I can use `print()` to display output.                  |                  3 |          |
+| I can explain what each basic arithmetic operator does. |                  3 |          |
+| I can use `type()` to inspect a value.                  |                  3 |          |
+| I can identify `int`, `float`, `complex`, and `str`.    |                  3 |          |
+| I can recognize `list`, `dict`, and `set` values.       |                  3 |          |
+| I can explain the difference between `/` and `//`.      |                  2 |          |
+| I can explain what `%` returns.                         |                  3 |          |
+| I can explain what `**` does.                           |                  3 |          |
+
 
 ## Question To Evaluate Learning
 
@@ -58,7 +59,7 @@ If you see `5 // 2`, `5 % 2`, and `5 ** 2`, what does each expression return, an
 
 </details>
 
-Score: 0/1/2/3  
+Score: 0/1/2/**3**  
 Last reviewed: YYYY-MM-DD  
 Next review: YYYY-MM-DD  
 Mistake note:
@@ -76,7 +77,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -88,7 +89,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -100,7 +101,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -112,7 +113,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -124,7 +125,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -136,7 +137,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -148,7 +149,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -160,7 +161,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -174,7 +175,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -186,7 +187,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -198,7 +199,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -210,7 +211,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -222,7 +223,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -234,7 +235,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -246,7 +247,7 @@ Use these questions without looking at the notebook first.
 
    </details>
 
-   Score: 0/1/2/3  
+   Score: 0/1/2/**3**  
    Last reviewed: YYYY-MM-DD  
    Next review: YYYY-MM-DD  
    Mistake note:
@@ -283,16 +284,14 @@ Use these questions without looking at the notebook first.
    print(type(10))
    ```
 
-   <details><summary>Answer</summary>
+<details><summary>Answer</summary>
 
-   ``` python
+python
    <class 'str'>
    <class 'int'>
-   ```
 
    `"10"` is text. `10` is a whole number.
-
-   </details>
+</details>
 
    Score: 0/1/2/3  
    Last reviewed: YYYY-MM-DD  
